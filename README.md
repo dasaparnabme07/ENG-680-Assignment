@@ -1,2 +1,2 @@
-# ENG-680-Assignment
+# Pneumonia Detection Using PyTorch
 This repository is for assignments
